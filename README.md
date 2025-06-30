@@ -16,7 +16,7 @@ Hi, I'm Logan – a Computer Engineering student at UIUC. I’m passionate about
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loganmw3&theme=default&hide_border=false&include_all_commits=false&count_private=true" width="55%" /> </br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=loganmw3&theme=default&hide_border=false" width="50%" /> </br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=loganmw3&theme=default&hide_border=false" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganmw3&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
