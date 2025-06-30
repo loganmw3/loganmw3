@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Logan – a Computer Engineering student at UIUC. I’m passionate about building tools at the intersection of health and AI, like apps that analyze ECG data to provide meaningful insights. I love exploring how technology can make healthcare more accessible and personalized.
+Hi, I'm Logan – a Computer Engineering student at UIUC. I’m passionate about exploring the intersection of health and AI. Such as apps that analyze ECG data to provide meaningful insights. I love exploring how technology can make healthcare more accessible and personalized.
 
 
 # 💻 Tech Stack:
