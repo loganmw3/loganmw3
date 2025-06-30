@@ -8,6 +8,11 @@ Hi, I'm Logan – a Computer Engineering student at UIUC. I’m passionate about
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/logan.wonnacott) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/loganmw3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:loganmw3@illinois.edu) 
 
+<div align="center">
+  <img src="https://github.com/loganmw3/loganmw3/blob/output/github-snake.svg" /> </br>
+</div>
+
+
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loganmw3&theme=default&hide_border=false&include_all_commits=false&count_private=true" width="55%" /> </br>
