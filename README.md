@@ -15,12 +15,14 @@ Hi, I'm Logan – a Computer Engineering student at UIUC. I’m passionate about
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loganmw3&theme=default&hide_border=false&include_all_commits=false&count_private=true" width="55%" /> </br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=loganmw3&theme=default&hide_border=false" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganmw3&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=loganmw3&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=loganmw3&theme=blueberry&hide_border=false" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganmw3&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=loganmw3&icon=1&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
