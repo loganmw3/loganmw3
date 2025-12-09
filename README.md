@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Logan – a Computer Engineering student at UIUC.
+Hi, I'm Logan – a Computer Engineering student at UIUC. I am super interested in AI, AI hardware and AI infrastrucure.
 
 
 # 💻 Tech Stack:
