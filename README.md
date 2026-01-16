@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Logan – a Computer Engineering student at UIUC. I am super interested in AI, AI hardware and AI infrastrucure.
+Hi, I’m Logan, a Computer Engineering student at the University of Illinois Urbana-Champaign. I’m particularly interested in hardware design and the intersection of hardware accelerators and AI/ML.
 
 
 # 💻 Tech Stack:
